@@ -3,7 +3,7 @@
 <h2>Cyber Security Projects:</h2>
 
 - [SIEM Project using Azure Sentinel](https://github.com/hassanbashir12)
-- [Active Directory Home Lab](https://github.com/hassanbashir12)
+- [Active Directory Home Lab](https://github.com/hassanbashir12/ActiveDirectoryHomeLab)
 - [File Integrity Monitor (FIM) Project](https://github.com/hassanbashir12)
 - [Vulnerability Management Project](https://github.com/hassanbashir12)
 - [Rest API Project](https://github.com/hassanbashir12)
