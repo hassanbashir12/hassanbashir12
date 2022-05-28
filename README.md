@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Hassan!</h1>
 
-<!--
-**hassanbashir12/hassanbashir12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Cyber Security Projects:</h2>
 
-Here are some ideas to get you started:
+- [SIEM Project using Azure Sentinel](https://github.com/hassanbashir12)
+- [Active Directory Home Lab](https://github.com/hassanbashir12)
+- [File Integrity Monitor (FIM) Project](https://github.com/hassanbashir12)
+- [Vulnerability Management Project](https://github.com/hassanbashir12)
+- [Rest API Project](https://github.com/hassanbashir12)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Certifications</h2>
+
+- CompTIA Security+ (In progress)
+- eJPT Junior Penetration Tester (In progress)
+
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="HassanBashir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/hassan-bashir-9700661b5/
